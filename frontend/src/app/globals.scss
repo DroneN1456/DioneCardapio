@@ -1,0 +1,9 @@
+:root{
+    --price-color: rgb(0, 255, 0);
+}
+$primary: #be0c0c;
+$secondary: #ffcc00;
+@import "~bootstrap/scss/bootstrap";
+*{
+    margin: 0;
+}
